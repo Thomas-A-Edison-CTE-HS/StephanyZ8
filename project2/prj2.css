@@ -3,4 +3,9 @@ body {
 }
 h1 {
     font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    font-size: larger;
   }
+li {
+    color: pink;
+}
