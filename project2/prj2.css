@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(180, 79, 79);
+    background-color: rgb(131, 76, 76);
 }
 h1 {
     font-family: "Lucida Console", "Courier New", monospace;
@@ -7,5 +7,5 @@ h1 {
     font-size: larger;
   }
 .tiny {
-    color: #fdf6f3;
+    color: #fcf5f2;
   }
