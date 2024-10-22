@@ -1,11 +1,18 @@
 body {
-    background-color: rgb(131, 76, 76);
+    background-color: saddlebrown;
 }
 h1 {
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
     font-size: larger;
+    color: floralwhite;
   }
 .tiny {
-    color: #fcf5f2;
+    color:floralwhite;
   }
+h2 {
+    color: floralwhite;
+}
+p {
+    color: floralwhite;
+}
