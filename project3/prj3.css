@@ -1,32 +1,25 @@
-/* ADD NEEDED RULE SETS AND PROPERTIES BELOW */
-
-/* style for title and introduction */
 .TI {
     background-color: forestgreen;
     color: white;
     align-self: center;
     text-align: center;
-  }
-  
-  
-  /* style for the featured species and conservation efforts */
-  .FT {
+}
+.FT {
     display: flex;
     background-color: antiquewhite;
     justify-content: center;
-  }
-  .FS {
+}
+.FS {
     order: 1;
-  }
-  .TC {
+}
+.TC {
     order: 2;
-  }
-  /* style for the content inside the featured container */
-  .ana1 {
+}
+.ana1 {
     display: flex;
     justify-content: center;
-  }
-  .leo {
+}
+.leo {
     background-color: lightgray;
     display: flex;
     flex-direction: column;
@@ -34,8 +27,8 @@
     margin: 20px;
     border-width: 2px;
     border-style: solid
-  }
-  .ele {
+}
+.ele {
     background-color: lightgray;
     display: flex;
     flex-direction: column;
@@ -43,8 +36,8 @@
     margin: 20px;
     border-width: 2px;
     border-style: solid
-  }
-  .gor{
+}
+.gor{
     background-color: lightgray;
     display: flex;
     flex-direction: column;
@@ -52,13 +45,13 @@
     margin: 20px;
     border-width: 2px;
     border-style: solid
-  }
-  /* gallery style */
-  .ana2{
+}
+
+.ana2{
     display: flex;
     justify-content: center;
-  }
-  .vaq{
+}
+.vaq{
     background-color: lightgray;
     display: flex;
     flex-direction: column;
@@ -66,8 +59,8 @@
     margin: 20px;
     border-width: 2px;
     border-style: solid
-  }
-  .rhi{
+}
+.rhi{
     background-color: lightgray;
     display: flex;
     flex-direction: column;
@@ -75,8 +68,8 @@
     margin: 20px;
     border-width: 2px;
     border-style: solid
-  }
-  .sno{
+}
+.sno{
     background-color: lightgray;
     display: flex;
     flex-direction: column;
@@ -84,46 +77,27 @@
     margin: 20px;
     border-width: 2px;
     border-style: solid
-  }
-  
-  /* style for each animal info card */
-  
-  
-  
-  /* style for the paragraph text in the animal info card */
-  
-  
-  
-  /* style for the footer containing the images credit */
+}
   .mrg{
     background-color: forestgreen;
     color: white;
     align-self: center;
     text-align: center;
-  }
-  
-  
-  /* DO NOT EDIT CSS CODE BELOW */
-  
-  /* body style */
-  body {
+}
+
+body {
     font-family: Verdana, sans-serif;
-  }
-  
-  /* h2 style */
-  h2 {
+}
+
+h2 {
     color: #003E1F;
-  }
-  
-  /* h3 style */
-  h3 {
+}
+h3 {
     color: #053C5E;
     margin-bottom: 10px;
-  }
-  
-  /* style for images */
-  img {
+}
+img {
     width: auto;
     height: 200px;
     border: 2px solid #003E1F;
-  }
+}
