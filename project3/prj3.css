@@ -1,14 +1,129 @@
-.resize {
-    font-size: 16px;
-    align-self: center;
+/* ADD NEEDED RULE SETS AND PROPERTIES BELOW */
+
+/* style for title and introduction */
+.TI {
+    background-color: forestgreen;
     color: white;
-}
-body{
-    background-color:forestgreen;
-}
-.headin {
-    font-family: fantasy;
-    font-size: 16px;
     align-self: center;
+    text-align: center;
+  }
+  
+  
+  /* style for the featured species and conservation efforts */
+  .FT {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+  }
+  .FS {
+    order: 1;
+  }
+  .TC {
+    order: 2;
+  }
+  /* style for the content inside the featured container */
+  .ana1 {
+    display: flex;
+    justify-content: center;
+  }
+  .leo {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+    border-width: 2px;
+    border-style: solid
+  }
+  .ele {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+    border-width: 2px;
+    border-style: solid
+  }
+  .gor{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+    border-width: 2px;
+    border-style: solid
+  }
+  /* gallery style */
+  .ana2{
+    display: flex;
+    justify-content: center;
+  }
+  .vaq{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+    border-width: 2px;
+    border-style: solid
+  }
+  .rhi{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+    border-width: 2px;
+    border-style: solid
+  }
+  .sno{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+    border-width: 2px;
+    border-style: solid
+  }
+  
+  /* style for each animal info card */
+  
+  
+  
+  /* style for the paragraph text in the animal info card */
+  
+  
+  
+  /* style for the footer containing the images credit */
+  .mrg{
+    background-color: forestgreen;
     color: white;
-}
+    align-self: center;
+    text-align: center;
+  }
+  
+  
+  /* DO NOT EDIT CSS CODE BELOW */
+  
+  /* body style */
+  body {
+    font-family: Verdana, sans-serif;
+  }
+  
+  /* h2 style */
+  h2 {
+    color: #003E1F;
+  }
+  
+  /* h3 style */
+  h3 {
+    color: #053C5E;
+    margin-bottom: 10px;
+  }
+  
+  /* style for images */
+  img {
+    width: auto;
+    height: 200px;
+    border: 2px solid #003E1F;
+  }
