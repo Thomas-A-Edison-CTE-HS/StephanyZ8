@@ -5,21 +5,26 @@
     text-align: center;
     padding: 5px;
 }
+
 .FT {
     display: flex;
     background-color: antiquewhite;
     justify-content: center;
 }
+
 .FS {
     order: 1;
 }
+
 .TC {
     order: 2;
 }
+
 .ana1 {
     display: flex;
     justify-content: center;
 }
+
 .leo {
     background-color: lightgray;
     display: flex;
@@ -29,6 +34,7 @@
     border-width: 2px;
     border-style: solid
 }
+
 .ele {
     background-color: lightgray;
     display: flex;
@@ -38,6 +44,7 @@
     border-width: 2px;
     border-style: solid
 }
+
 .gor{
     background-color: lightgray;
     display: flex;
@@ -47,10 +54,12 @@
     border-width: 2px;
     border-style: solid
 }
+
 .ana2{
     display: flex;
     justify-content: center;
 }
+
 .vaq{
     background-color: lightgray;
     display: flex;
@@ -60,6 +69,7 @@
     border-width: 2px;
     border-style: solid
 }
+
 .rhi{
     background-color: lightgray;
     display: flex;
@@ -69,6 +79,7 @@
     border-width: 2px;
     border-style: solid
 }
+
 .sno{
     background-color: lightgray;
     display: flex;
@@ -78,6 +89,7 @@
     border-width: 2px;
     border-style: solid
 }
+
 .mrg{
     background-color: forestgreen;
     color: white;
@@ -85,6 +97,7 @@
     text-align: center;
     padding: 2px;
 }
+
 body {
     font-family: Verdana, sans-serif;
 }
@@ -92,10 +105,12 @@ body {
 h2 {
     color: #003E1F;
 }
+
 h3 {
     color: #053C5E;
     margin-bottom: 10px;
 }
+
 img {
     width: auto;
     height: 200px;
