@@ -1,4 +1,3 @@
-<!-- General, First 2 -->
 .TI {
     background-color: forestgreen;
     color: white;
@@ -11,14 +10,12 @@
     background-color: antiquewhite;
     justify-content: center;
 }
-<!-- 2nd section -->
 .FS {
     order: 1;
 }
 .TC {
     order: 2;
 }
-<!-- First 3 Animals -->
 .ana1 {
     display: flex;
     justify-content: center;
@@ -50,7 +47,6 @@
     border-width: 2px;
     border-style: solid
 }
-<!-- Last 3 Animals -->
 .ana2{
     display: flex;
     justify-content: center;
@@ -82,7 +78,6 @@
     border-width: 2px;
     border-style: solid
 }
-<!-- Bottom -->
 .mrg{
     background-color: forestgreen;
     color: white;
@@ -90,8 +85,6 @@
     text-align: center;
     padding: 2px;
 }
-
-<!-- Extra -->
 body {
     font-family: Verdana, sans-serif;
 }
