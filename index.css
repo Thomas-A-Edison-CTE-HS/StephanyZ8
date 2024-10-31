@@ -5,3 +5,7 @@ body {
   h1 {
     font-size: 36px;
   }
+.headin{
+  text-align: center;
+  justify-content: center;
+}
