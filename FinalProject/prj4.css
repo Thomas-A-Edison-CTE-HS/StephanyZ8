@@ -1,16 +1,17 @@
 body{
-    background-image: url(bg.png)
+    background-image: url("bg.png");
     background-repeat: no-repeat;
     background-size:cover;
   }
   .Title {
     color: #ffffff;
-    background-color: rgba(255, 255, 255, 0.31);
+    background-color: rgba(51, 7, 83, 0.51);
     border-width: thick;
+    border-radius: 25px;
     border-color: black;
     text-indent: 30px;
     font-family: monospace;
-    
+  
   }
   .NCL {
     font-family: cursive;
@@ -19,12 +20,14 @@ body{
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: space-evenly;
-    background-color: rgba(255, 255, 255, 0.31);
+    background-color: rgba(124, 97, 172, 0.31);
     color: white;
     letter-spacing: 2px;
-    border-style: dashed;
     border-color: rgba(255, 255, 255, 0.28);
-    border-width: 5px;
+    border-width: thick;
+    border-radius: 0px;
+  
+    
   }
   img{
     width:300px;
@@ -96,4 +99,15 @@ body{
     height: 300px;
   }
   
-  
+  h3{
+    background-color: rgba(51, 7, 83, 0.51);
+    border: solid 3px;
+    border-color: rgba(255, 0, 0, 0);
+    border-radius: 20px;
+  }
+  h4{
+    background-color: rgba(51, 7, 83, 0.51);
+    border: solid 3px;
+    border-color: rgba(255, 0, 0, 0);
+    border-radius: 20px;
+  }
