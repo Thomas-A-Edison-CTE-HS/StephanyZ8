@@ -1,113 +1,25 @@
-body{
-    background-image: url("bg.png");
-    background-repeat: no-repeat;
-    background-size:cover;
-  }
-  .Title {
-    color: #ffffff;
-    background-color: rgba(51, 7, 83, 0.51);
-    border-width: thick;
-    border-radius: 25px;
-    border-color: black;
-    text-indent: 30px;
-    font-family: monospace;
-  
-  }
-  .NCL {
-    font-family: cursive;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: space-between;
-    justify-content: space-evenly;
-    background-color: rgba(124, 97, 172, 0.31);
-    color: white;
-    letter-spacing: 2px;
-    border-color: rgba(255, 255, 255, 0.28);
-    border-width: thick;
-    border-radius: 0px;
-  
-    
-  }
-  img{
-    width:300px;
-    
-  }
-  
-  .OTT{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .A{
-    font-family: cursive;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: flex-start;
-    background-color: rgba(255, 255, 255, 0.31);
-    color: white;
-    letter-spacing: 2px;
-    border-style: double;
-    border-color: rgba(0, 0, 0, 0.28);
-    width: inherit;
-    height: inherit;
-    transition: width 2s, height 4s;
-  
-  }
-  
-  .B{
-    font-family: cursive;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: flex-start;
-    background-color: rgba(255, 255, 255, 0.31);
-    color: white;
-    letter-spacing: 2px;
-    border-style: double;
-    border-color: rgba(0, 0, 0, 0.28);
-  }
-  
-  .C{
-    font-family: cursive;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: flex-start;
-    background-color: rgba(255, 255, 255, 0.31);
-    color: white;
-    letter-spacing: 2px;
-    border-style: double;
-    border-color: rgba(0, 0, 0, 0.28);
-  }
-  .A:hover {
-    width: inherit;
-    height: 300px;
-  }
-  .B:hover {
-    width: inherit;
-    height: 300px;
-  }
-  .C:hover {
-    width: inherit;
-    height: 300px;
-  }
-  
-  h3{
-    background-color: rgba(51, 7, 83, 0.51);
-    border: solid 3px;
-    border-color: rgba(255, 0, 0, 0);
-    border-radius: 20px;
-  }
-  h4{
-    background-color: rgba(51, 7, 83, 0.51);
-    border: solid 3px;
-    border-color: rgba(255, 0, 0, 0);
-    border-radius: 20px;
-  }
+body {
+  background-color:#fff2cc;
+  background-image: url(bg.png);
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.Title{
+  color: #545964;
+  font-family:monospace;
+  font-size: 75px;
+  font-weight: 1000;
+  font-style: oblique;
+  background-color: rgba(240, 248, 255, 0.26);
+}
+
+.info{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-family: monospace;
+  background-color: rgba(240, 248, 255, 0.26);
+}
