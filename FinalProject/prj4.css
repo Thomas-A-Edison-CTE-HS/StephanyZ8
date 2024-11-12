@@ -135,3 +135,21 @@ body {
   #HardLevel:hover {
     background-image: url('H2.png');
   }
+
+
+.i{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgba(240, 248, 255, 0.26);
+  height:60px;
+  overflow: hidden;
+  transition: height 2s;
+}
+
+.i:hover{
+  width:inherit;
+  height: 168px;
+}
